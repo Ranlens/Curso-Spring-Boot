@@ -1,5 +1,5 @@
 # Imersão em Java e Spring Rest
-## Alga Works
+###### Curso de especialização da Alga Works
 <a href="http://algaworks.com/">Alga Works</a>
 
 
